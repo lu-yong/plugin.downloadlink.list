@@ -1,1 +1,1 @@
-# plug.downloadlink.list
+# plugin.downloadlink.list
