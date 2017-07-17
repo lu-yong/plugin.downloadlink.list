@@ -3,31 +3,11 @@
         {
             "name": "tv5video.ca",
             "url": "https://github.com/luckxiang/plugin.tv5video/archive/master.zip"
-        },
-
-        {
-            "name": "gxiptv",
-            "url": "https://github.com/luckxiang/plugin.gxiptv/archive/master.zip"
-        },
-
-        {
-            "name": "xlive",
-            "url": "https://github.com/luckxiang/plugin.xlive/archive/master.zip"
         }
 
     ],
 
     "Video":[
-        {
-            "name": "youtube",
-            "url": "https://github.com/luckxiang/plugin.youtube/archive/master.zip"
-        },
-
-        {
-            "name": "HDSerials",
-            "url": "https://github.com/luckxiang/plugin.HDSerials/archive/master.zip"
-        },
-
         {
             "name": "stalker",
             "url": "https://github.com/luckxiang/plugin.stalker/archive/master.zip"
@@ -39,11 +19,6 @@
         {
             "name": "di",
             "url": "https://github.com/luckxiang/plugin.di/archive/master.zip"
-        },
-
-        {
-            "name": "doubanfm",
-            "url": "https://github.com/luckxiang/plugin.doubanfm/archive/master.zip"
         },
 
         {
