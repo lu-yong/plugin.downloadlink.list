@@ -3,6 +3,11 @@
         {
             "name": "tv5video.ca",
             "url": "https://github.com/luckxiang/plugin.tv5video/archive/master.zip"
+        },
+
+        {
+            "name": "gxiptv",
+            "url": "https://github.com/luckxiang/plugin.gxiptv/archive/master.zip"
         }
 
     ],
