@@ -16,6 +16,11 @@
         {
             "name": "stalker",
             "url": "https://github.com/luckxiang/plugin.stalker/archive/master.zip"
+        },
+
+        {
+            "name": "megogo",
+            "url": "https://github.com/lu-yong/megogo_plugin/archive/master.zip"
         }
 
     ],
