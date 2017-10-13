@@ -24,6 +24,11 @@
         },
 
         {
+            "name": "xtream vod",
+            "url": "https://github.com/chenpeng-sz/xtream_vod_plugin/archive/master.zip"
+        },
+
+        {
             "name": "megogo",
             "url": "https://github.com/lu-yong/megogo_plugin/archive/master.zip"
         }
