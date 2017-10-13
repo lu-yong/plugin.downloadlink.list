@@ -6,6 +6,11 @@
         },
 
         {
+            "name": "xtream live",
+            "url": "https://github.com/chenpeng-sz/xtream_live_plugin/archive/master.zip"
+        },
+
+        {
             "name": "gxiptv",
             "url": "https://github.com/luckxiang/plugin.gxiptv/archive/master.zip"
         }
