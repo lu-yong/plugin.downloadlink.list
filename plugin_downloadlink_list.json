@@ -8,11 +8,6 @@
         {
             "name": "xtream live",
             "url": "https://github.com/chenpeng-sz/xtream_live_plugin/archive/master.zip"
-        },
-
-        {
-            "name": "gxiptv",
-            "url": "https://github.com/luckxiang/plugin.gxiptv/archive/master.zip"
         }
 
     ],
@@ -21,6 +16,16 @@
         {
             "name": "stalker",
             "url": "https://github.com/luckxiang/plugin.stalker/archive/master.zip"
+        },
+
+        {
+             "name": "HDSerials",
+             "url": "https://github.com/luckxiang/plugin.HDSerials/archive/master.zip"
+        },
+
+        {
+             "name": "HDGO",
+             "url": "https://github.com/luckxiang/plugin.HDGO/archive/master.zip"
         },
 
         {
@@ -39,6 +44,11 @@
         {
             "name": "di",
             "url": "https://github.com/luckxiang/plugin.di/archive/master.zip"
+        },
+
+        {
+            "name": "doubanfm",
+            "url": "https://github.com/luckxiang/plugin.doubanfm/archive/master.zip"                                        
         },
 
         {
