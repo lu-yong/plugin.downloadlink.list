@@ -34,6 +34,16 @@
         },
 
         {
+            "name": "Dailymotion",
+            "url": "https://github.com/luckxiang/plugin.dailymotion/archive/master.zip"
+        },
+
+        {
+            "name": "Shoutcast",
+            "url": "https://github.com/luckxiang/plugin.shoutcast/archive/master.zip"
+        },
+
+        {
             "name": "megogo",
             "url": "https://github.com/lu-yong/megogo_plugin/archive/master.zip"
         }
