@@ -39,11 +39,6 @@
         },
 
         {
-            "name": "Shoutcast",
-            "url": "https://github.com/luckxiang/plugin.shoutcast/archive/master.zip"
-        },
-
-        {
             "name": "megogo",
             "url": "https://github.com/lu-yong/megogo_plugin/archive/master.zip"
         }
@@ -54,6 +49,11 @@
         {
             "name": "di",
             "url": "https://github.com/luckxiang/plugin.di/archive/master.zip"
+        },
+
+        {
+            "name": "Shoutcast",
+            "url": "https://github.com/luckxiang/plugin.shoutcast/archive/master.zip"
         },
 
         {
