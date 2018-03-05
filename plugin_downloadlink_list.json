@@ -2,7 +2,7 @@
     "Online TV":[
         {
             "name": "tv5video.ca",
-            "url": "https://github.com/luckxiang/plugin.tv5video/archive/master.zip"
+            "url": "https://github.com/lu-yong/plugin.tv5video/archive/master.zip"
         },
 
         {
@@ -15,17 +15,17 @@
     "Video":[
         {
             "name": "stalker",
-            "url": "https://github.com/luckxiang/plugin.stalker/archive/master.zip"
+            "url": "https://github.com/lu-yong/plugin.stalker/archive/master.zip"
         },
 
         {
              "name": "HDSerials",
-             "url": "https://github.com/luckxiang/plugin.HDSerials/archive/master.zip"
+             "url": "https://github.com/lu-yong/plugin.HDSerials/archive/master.zip"
         },
 
         {
              "name": "HDGO",
-             "url": "https://github.com/luckxiang/plugin.HDGO/archive/master.zip"
+             "url": "https://github.com/lu-yong/plugin.HDGO/archive/master.zip"
         },
 
         {
@@ -35,7 +35,7 @@
 
         {
             "name": "Dailymotion",
-            "url": "https://github.com/luckxiang/plugin.dailymotion/archive/master.zip"
+            "url": "https://github.com/lu-yong/plugin.dailymotion/archive/master.zip"
         },
 
         {
@@ -48,22 +48,22 @@
     "Audio":[
         {
             "name": "di",
-            "url": "https://github.com/luckxiang/plugin.di/archive/master.zip"
+            "url": "https://github.com/lu-yong/plugin.di/archive/master.zip"
         },
 
         {
             "name": "Shoutcast",
-            "url": "https://github.com/luckxiang/plugin.shoutcast/archive/master.zip"
+            "url": "https://github.com/lu-yong/plugin.shoutcast/archive/master.zip"
         },
 
         {
             "name": "doubanfm",
-            "url": "https://github.com/luckxiang/plugin.doubanfm/archive/master.zip"                                        
+            "url": "https://github.com/lu-yong/plugin.doubanfm/archive/master.zip"
         },
 
         {
             "name": "somafm",
-            "url": "https://github.com/luckxiang/plugin.somafm/archive/master.zip"
+            "url": "https://github.com/lu-yong/plugin.somafm/archive/master.zip"
         }
 
     ]
