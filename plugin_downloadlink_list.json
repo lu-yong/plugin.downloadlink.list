@@ -41,8 +41,12 @@
         {
             "name": "megogo",
             "url": "https://github.com/lu-yong/megogo_plugin/archive/master.zip"
-        }
+        },
 
+        {
+            "name": "TED Talks",
+            "url": "https://github.com/lu-yong/plugin.ted/archive/master.zip"
+        }
     ],
 
     "Audio":[
