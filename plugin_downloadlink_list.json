@@ -19,11 +19,6 @@
         },
 
         {
-             "name": "HDSerials",
-             "url": "https://github.com/lu-yong/plugin.HDSerials/archive/master.zip"
-        },
-
-        {
              "name": "HDGO",
              "url": "https://github.com/lu-yong/plugin.HDGO/archive/master.zip"
         },
