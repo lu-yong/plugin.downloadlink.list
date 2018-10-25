@@ -19,11 +19,6 @@
         },
 
         {
-             "name": "HDGO",
-             "url": "https://github.com/lu-yong/plugin.HDGO/archive/master.zip"
-        },
-
-        {
             "name": "xtream vod",
             "url": "https://github.com/chenpeng-sz/xtream_vod_plugin/archive/master.zip"
         },
@@ -45,11 +40,6 @@
     ],
 
     "Audio":[
-        {
-            "name": "di",
-            "url": "https://github.com/lu-yong/plugin.di/archive/master.zip"
-        },
-
         {
             "name": "Shoutcast",
             "url": "https://github.com/lu-yong/plugin.shoutcast/archive/master.zip"
