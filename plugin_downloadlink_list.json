@@ -1,11 +1,6 @@
 {
     "Online TV":[
         {
-            "name": "tv5video.ca",
-            "url": "https://github.com/lu-yong/plugin.tv5video/archive/master.zip"
-        },
-
-        {
             "name": "xtream live",
             "url": "https://github.com/chenpeng-sz/xtream_live_plugin/archive/master.zip"
         }
