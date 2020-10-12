@@ -41,11 +41,6 @@
         },
 
         {
-            "name": "doubanfm",
-            "url": "https://github.com/lu-yong/plugin.doubanfm/archive/master.zip"
-        },
-
-        {
             "name": "somafm",
             "url": "https://github.com/lu-yong/plugin.somafm/archive/master.zip"
         }
